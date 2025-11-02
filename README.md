@@ -8,8 +8,8 @@
 git config --global user.name "Nama Kamu"          # Mengatur nama pengguna global
 git config --global user.email "email@domain.com"  # Mengatur email global
 git config --global core.editor "code --wait"      # Menetapkan editor default (VSCode)
-git config --list                                 # Melihat seluruh konfigurasi Git
-git help <command>                                # Bantuan untuk perintah tertentu
+git config --list                                  # Melihat seluruh konfigurasi Git
+git help <command>                                 # Bantuan untuk perintah tertentu
 ```
 
 ---
@@ -199,5 +199,6 @@ git config --global alias.last "log -1 HEAD"
 
 ---
 
-**Lisensi:** MIT
+**Lisensi:** MIT <br>
 Dibuat dengan ❤️ oleh DeepCodeX
+
