@@ -199,6 +199,13 @@ git config --global alias.last "log -1 HEAD"
 
 ---
 
-**Lisensi:** MIT <br>
+## 📜 License
+
+[MIT License](./LICENSE) © 2025.
+Kalau merasa terbantu, kasih ⭐ di repo ini 🙌
+
+---
+
 Dibuat dengan ❤️ oleh DeepCodeX
+
 
